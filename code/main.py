@@ -44,7 +44,7 @@ import copy
 import torch as th
 
 import numpy as np
-from torch_geometric.data import Data
+
 from scipy.sparse import coo_matrix
 
 import torch.nn.functional as F
