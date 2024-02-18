@@ -387,7 +387,12 @@ if __name__ == "__main__":
         recall_mean, recall_std = np.mean(recall_list), np.std(recall_list)
         aupr_mean, aupr_std = np.mean(aupr_list), np.std(aupr_list)
 
-
+        # 打印结果
+        print(f"AUC Mean: {auc_mean:.4f}, AUC Std: {auc_std:.6f}")
+        print(f"F1 Score Mean: {f1_mean:.4f}, F1 Score Std: {f1_std:.6f}")
+        print(f"Precision Mean: {precision_mean:.4f}, Precision Std: {precision_std:.6f}")
+        print(f"Recall Mean: {recall_mean:.4f}, Recall Std: {recall_std:.6f}")
+        print(f"AUPR Mean: {aupr_mean:.4f}, AUPR Std: {aupr_std:.6f}")
 
 
 
