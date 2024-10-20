@@ -1,0 +1,436 @@
+name,id
+"abortion, habitual",0
+acquired immunodeficiency syndrome,1
+acute coronary syndrome,2
+acute kidney injury,3
+acute lung injury,4
+adrenocortical carcinoma,5
+alopecia,6
+amyloidosis,7
+amyotrophic lateral sclerosis,8
+anemia,9
+"anemia, sickle cell",10
+aneurysm,11
+"angina, unstable",12
+antiphospholipid syndrome,13
+anus neoplasms,14
+anxiety,15
+anxiety disorders,16
+aortic aneurysm,17
+"aortic aneurysm, abdominal",18
+"aortic aneurysm, thoracic",19
+aortic valve insufficiency,20
+aortic valve stenosis,21
+arbovirus infections,22
+arteriosclerosis obliterans,23
+arthritis,24
+"arthritis, psoriatic",25
+asthenozoospermia,26
+asthma,27
+astrocytoma,28
+atherosclerosis,29
+atrial fibrillation,30
+autistic disorder,31
+autoimmune diseases,32
+autoimmune lymphoproliferative syndrome,33
+azoospermia,34
+balkan nephropathy,35
+barrett esophagus,36
+behcet syndrome,37
+bile duct neoplasms,38
+biliary atresia,39
+bipolar disorder,40
+bone diseases,41
+bone neoplasms,42
+borna disease,43
+brain diseases,44
+brain ischemia,45
+brain neoplasms,46
+bronchiolitis obliterans,47
+bronchopulmonary dysplasia,48
+brucellosis,49
+burkitt lymphoma,50
+"carcinoma, basal cell",51
+"carcinoma, ehrlich tumor",52
+"carcinoma, endometrioid",53
+"carcinoma, neuroendocrine",54
+"carcinoma, pancreatic ductal",55
+"carcinoma, signet ring cell",56
+"carcinoma, transitional cell",57
+cardio-renal syndrome,58
+cardiomegaly,59
+cardiomyopathies,60
+"cardiomyopathy, alcoholic",61
+"cardiomyopathy, dilated",62
+cardiotoxicity,63
+cardiovascular diseases,64
+carotid artery diseases,65
+cartilage diseases,66
+cataract,67
+celiac disease,68
+cerebellar neoplasms,69
+cerebral hemorrhage,70
+cerebral infarction,71
+chagas disease,72
+charcot-marie-tooth disease,73
+chemical and drug induced liver injury,74
+chikungunya fever,75
+"child development disorders, pervasive",76
+chlamydia infections,77
+cholangiocarcinoma,78
+cholestasis,79
+cholesteatoma,80
+chondrosarcoma,81
+chordoma,82
+chorioamnionitis,83
+choriocarcinoma,84
+chronic pain,85
+"cicatrix, hypertrophic",86
+cleidocranial dysplasia,87
+cocaine-related disorders,88
+colitis,89
+colonic neoplasms,90
+colorectal neoplasms,91
+complex regional pain syndromes,92
+congenital microtia,93
+corneal neovascularization,94
+coronary artery disease,95
+coronary restenosis,96
+coronavirus infections,97
+crohn disease,98
+cryptosporidiosis,99
+cystic fibrosis,100
+cytomegalovirus infections,101
+dementia,102
+demyelinating diseases,103
+dental enamel hypoplasia,104
+depressive disorder,105
+"dermatitis, allergic contact",106
+"dermatitis, atopic",107
+dermatomyositis,108
+diabetes mellitus,109
+diabetic angiopathies,110
+diabetic cardiomyopathies,111
+diabetic foot,112
+diabetic neuropathies,113
+diabetic retinopathy,114
+diarrhea,115
+digeorge syndrome,116
+digestive system neoplasms,117
+down syndrome,118
+dyspepsia,119
+eclampsia,120
+encephalitis,121
+encephalomyelitis,122
+endocardial cushion defects,123
+endocrine gland neoplasms,124
+endometrial neoplasms,125
+endometriosis,126
+endomyocardial fibrosis,127
+endotoxemia,128
+enterovirus infections,129
+eosinophilic esophagitis,130
+ependymoma,131
+epilepsy,132
+"epilepsy, temporal lobe",133
+epstein-barr virus infections,134
+esophageal neoplasms,135
+esophagitis,136
+familial mediterranean fever,137
+familial primary pulmonary hypertension,138
+fanconi anemia,139
+fatty liver,140
+"fatty liver, alcoholic",141
+fetal alcohol spectrum disorders,142
+fever,143
+"fibromatosis, aggressive",144
+fibromyalgia,145
+fibrosarcoma,146
+focal epithelial hyperplasia,147
+foot-and-mouth disease,148
+fragile x syndrome,149
+friedreich ataxia,150
+frontotemporal lobar degeneration,151
+"gastritis, atrophic",152
+gastrointestinal neoplasms,153
+gastrointestinal stromal tumors,154
+gaucher disease,155
+gerstmann-straussler-scheinker disease,156
+gestational trophoblastic disease,157
+giant cell tumor of bone,158
+glaucoma,159
+glioblastoma,160
+glioma,161
+gliosis,162
+glomerulonephritis,163
+gout,164
+graft rejection,165
+granulosa cell tumor,166
+graves disease,167
+growth disorders,168
+growth hormone-secreting pituitary adenoma,169
+guillain-barre syndrome,170
+haemophilus infections,171
+"hamartoma syndrome, multiple",172
+"hand, foot and mouth disease",173
+hantavirus infections,174
+head and neck neoplasms,175
+hearing loss,176
+"hearing loss, central",177
+heart diseases,178
+heart failure,179
+hellp syndrome,180
+hemangioma,181
+hemangiosarcoma,182
+hematologic neoplasms,183
+hemoglobin sc disease,184
+hemoglobinopathies,185
+hemophilia a,186
+"hemorrhagic fever, ebola",187
+hepatitis b,188
+"hepatitis b, chronic",189
+hepatitis c,190
+"hepatitis c, chronic",191
+hepatitis e,192
+"hepatitis, alcoholic",193
+"hepatitis, chronic",194
+hepatoblastoma,195
+hirschsprung disease,196
+hiv infections,197
+hiv-associated lipodystrophy syndrome,198
+hodgkin disease,199
+huntington disease,200
+hyperaldosteronism,201
+hypercholesterolemia,202
+hyperglycemia,203
+hyperhomocysteinemia,204
+hyperlipoproteinemia type iii,205
+hypersensitivity,206
+hypertrophy,207
+hypoxia,208
+"hypoxia-ischemia, brain",209
+idiopathic pulmonary fibrosis,210
+ileus,211
+immune system diseases,212
+immunologic deficiency syndromes,213
+infection,214
+inferior wall myocardial infarction,215
+infertility,216
+inflammation,217
+inflammatory bowel diseases,218
+intermittent claudication,219
+intervertebral disc degeneration,220
+intestinal diseases,221
+intracranial aneurysm,222
+irritable bowel syndrome,223
+ischemia,224
+kaposi varicelliform eruption,225
+keloid,226
+keratitis,227
+kidney diseases,228
+"kidney failure, chronic",229
+legg-calve-perthes disease,230
+leiomyosarcoma,231
+leishmaniasis,232
+leprosy,233
+"leprosy, lepromatous",234
+lesch-nyhan syndrome,235
+leukemia,236
+"leukemia, b-cell",237
+"leukemia, myeloid, chronic-phase",238
+"leukemia, t-cell",239
+"leukoplakia, oral",240
+li-fraumeni syndrome,241
+lichen planus,242
+"lichen planus, oral",243
+"lipid metabolism, inborn errors",244
+liposarcoma,245
+"liposarcoma, myxoid",246
+listeriosis,247
+liver cirrhosis,248
+liver diseases,249
+liver failure,250
+"liver failure, acute",251
+liver neoplasms,252
+long qt syndrome,253
+lung diseases,254
+"lung diseases, interstitial",255
+lung injury,256
+lung neoplasms,257
+"lupus erythematosus, systemic",258
+lupus nephritis,259
+lupus vulgaris,260
+lyme disease,261
+lymphedema,262
+lymphocytic choriomeningitis,263
+"lymphohistiocytosis, hemophagocytic",264
+lymphoma,265
+"lymphoma, extranodal nk-t-cell",266
+"lymphoma, follicular",267
+"lymphoma, non-hodgkin",268
+"lymphoma, t-cell, cutaneous",269
+lymphoproliferative disorders,270
+machado-joseph disease,271
+macular degeneration,272
+"malaria, cerebral",273
+marek disease,274
+mastitis,275
+"mastocytosis, systemic",276
+medulloblastoma,277
+melanoma,278
+melanosis,279
+meningioma,280
+meningitis,281
+"meningitis, pneumococcal",282
+mental disorders,283
+metabolic diseases,284
+mitochondrial diseases,285
+mouth neoplasms,286
+moyamoya disease,287
+mucocutaneous lymph node syndrome,288
+multiple endocrine neoplasia type 1,289
+multiple myeloma,290
+multiple sclerosis,291
+multiple sulfatase deficiency disease,292
+multiple system atrophy,293
+muscular atrophy,294
+"muscular dystrophy, duchenne",295
+"muscular dystrophy, facioscapulohumeral",296
+myasthenia gravis,297
+"myasthenic syndromes, congenital",298
+mycobacterium avium-intracellulare infection,299
+mycosis fungoides,300
+myocardial infarction,301
+myocardial ischemia,302
+myocardial reperfusion injury,303
+myocarditis,304
+myopia,305
+myositis ossificans,306
+myotonic dystrophy,307
+myxoma,308
+narcolepsy,309
+nasopharyngeal neoplasms,310
+neoplasms,311
+"neoplasms, germ cell and embryonal",312
+"neoplasms, neuroepithelial",313
+nephrolithiasis,314
+nephrosclerosis,315
+nephrotic syndrome,316
+neuralgia,317
+neurilemmoma,318
+neuroblastoma,319
+neuroendocrine tumors,320
+neuroma,321
+neurotoxicity syndromes,322
+neutropenia,323
+nevus,324
+"niemann-pick disease, type c",325
+non-alcoholic fatty liver disease,326
+obesity,327
+odontogenic tumors,328
+oligodendroglioma,329
+oral submucous fibrosis,330
+oropharyngeal neoplasms,331
+"osteoarthritis, knee",332
+osteogenesis imperfecta,333
+osteoporosis,334
+"osteoporosis, postmenopausal",335
+osteosarcoma,336
+otitis media,337
+ovarian diseases,338
+pain,339
+pancreatic diseases,340
+"pancreatitis, acute necrotizing",341
+"pancreatitis, chronic",342
+panic disorder,343
+parathyroid neoplasms,344
+parkinson disease,345
+pediatric obesity,346
+pelvic inflammatory disease,347
+pelvic organ prolapse,348
+pemphigus,349
+periodontal diseases,350
+periodontitis,351
+peripheral nervous system diseases,352
+peripheral vascular diseases,353
+peritoneal fibrosis,354
+peritoneal neoplasms,355
+peritonitis,356
+pheochromocytoma,357
+phyllodes tumor,358
+pituitary neoplasms,359
+pneumonia,360
+polycystic kidney diseases,361
+polycystic ovary syndrome,362
+polycythemia vera,363
+pre-eclampsia,364
+precursor b-cell lymphoblastic leukemia-lymphoma,365
+precursor t-cell lymphoblastic leukemia-lymphoma,366
+pregnancy complications,367
+primary myelofibrosis,368
+prion diseases,369
+prolactinoma,370
+prostatic neoplasms,371
+psoriasis,372
+psychotic disorders,373
+pterygium,374
+pulmonary embolism,375
+pulmonary fibrosis,376
+rectal neoplasms,377
+reperfusion injury,378
+"respiratory distress syndrome, adult",379
+respiratory syncytial virus infections,380
+retinal degeneration,381
+retinal neovascularization,382
+retinitis pigmentosa,383
+retinoblastoma,384
+rhabdoid tumor,385
+rhabdomyosarcoma,386
+rheumatic heart disease,387
+"rhinitis, allergic, perennial",388
+"rhinitis, vasomotor",389
+salivary gland neoplasms,390
+salmonella infections,391
+"sarcoidosis, pulmonary",392
+sarcoma,393
+schistosomiasis japonica,394
+schizophrenia,395
+seizures,396
+seminoma,397
+sepsis,398
+severe acute respiratory syndrome,399
+sezary syndrome,400
+"shock, hemorrhagic",401
+silicosis,402
+sjogren's syndrome,403
+skin neoplasms,404
+"sleep apnea, obstructive",405
+spinal stenosis,406
+spondylarthritis,407
+staphylococcal scalded skin syndrome,408
+status epilepticus,409
+stomach neoplasms,410
+subarachnoid hemorrhage,411
+testicular neoplasms,412
+tetralogy of fallot,413
+"thrombocythemia, essential",414
+thrombocytopenia,415
+thrombocytosis,416
+thrombosis,417
+thymoma,418
+tongue neoplasms,419
+toxoplasmosis,420
+triple negative breast neoplasms,421
+trisomy 13 syndrome,422
+tuberculosis,423
+"tuberculosis, pulmonary",424
+uterine cervicitis,425
+uterine neoplasms,426
+uveitis,427
+uveomeningoencephalitic syndrome,428
+varicocele,429
+vascular diseases,430
+vasculitis,431
+vitiligo,432
+vulvar neoplasms,433
+waldenstrom macroglobulinemia,434
