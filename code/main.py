@@ -78,27 +78,6 @@ class Config(object):
         self.seed = 4
 
 
-def calculate_metrics(y_true, y_pred):
-    precision, recall, thresholds = precision_recall_curve(y_true, y_pred)
-    f1_scores = 2 * (precision * recall) / (precision + recall)
-    f1_scores = np.nan_to_num(f1_scores)  # Handle any NaN values that may arise
-
-    # Find the threshold that gives the maximum F1 score
-    best_threshold_idx = np.argmax(f1_scores)
-    best_threshold = thresholds[best_threshold_idx]
-
-    # Calculate AUPR
-    aupr = auc(recall, precision)
-
-    # Use the best threshold to generate binary predictions
-    y_pred_binary = (y_pred > best_threshold).astype(int)
-    precision = precision_score(y_true, y_pred_binary)
-    recall = recall_score(y_true, y_pred_binary)
-    f1 = f1_score(y_true, y_pred_binary)
-
-    return aupr, precision, recall, f1, best_threshold
-
-
 if __name__ == "__main__":
 
     D = np.genfromtxt(r"../data/HMDD3.2.txt")
