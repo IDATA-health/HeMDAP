@@ -230,12 +230,12 @@ class Hemdap(nn.Module):
         # 调用知识感知编码器，生成增强表示
         new_h_mirna, new_h_disease, knowledge_loss = self.knowledge_aware_encoder(h_all1[0], h_all2[0], z_mp1_agg,
                                                                                   md_matrix)
-        new_h_mirna1, new_h_disease1, knowledge_loss1 = self.knowledge_aware_encoder(h_all2[0], h_all1[0], z_mp1_agg,
+        new_h_disease1, new_h_mirna1, knowledge_loss1 = self.knowledge_aware_encoder(h_all2[0], h_all1[0], z_mp1_agg,
                                                                                      md_matrix.T)
         # 总损失
         total_loss = contrast_loss + knowledge_loss + knowledge_loss1
 
-        return z_mp1_agg + new_h_mirna + new_h_disease1 + h_all1[0], z_sc1, z_mp2_agg + new_h_mirna1 + new_h_disease + \
+        return z_mp1_agg + new_h_mirna + new_h_mirna1 + h_all1[0], z_sc1, z_mp2_agg + new_h_disease1 + new_h_disease + \
                h_all2[0], z_sc2, total_loss
 
     def get_link_prediction(self, embedding_u, embedding_v):

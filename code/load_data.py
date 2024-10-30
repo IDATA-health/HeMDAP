@@ -187,5 +187,5 @@ def load_m():
     mgm = sparse_mx_to_torch_sparse_tensor(normalize_adj(mgm))
     mgdgm = sparse_mx_to_torch_sparse_tensor(normalize_adj(mgdgm))
     pos = sparse_mx_to_torch_sparse_tensor(m_pos)
-    # , mgm, mgdgm
+
     return [nei_m_d, nei_m_g], [feat_m, feat_d, feat_g], [mm, mdm, mgm, mgdgm], pos
