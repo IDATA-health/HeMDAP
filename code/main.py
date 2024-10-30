@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
     varauc = []
     AAuc_list1 = []
-
+    auc_list = []
     for time in range(1, 2):
 
         Auc_per = []
@@ -310,10 +310,14 @@ if __name__ == "__main__":
             test_predict = result_list
             label = true_list
             aucvalue = roc_auc_score(label, test_predict)
-            print(f"AUC value: {aucvalue}")
+            auc_list.append(aucvalue)
             del model
             del optimiser
             del LOSS
             gc.collect()
+        auc_mean = np.mean(auc_list), np.std(auc_list)
+        # 打印结果
+        print(f"AUC Mean: {auc_mean:.4f}, AUC Std: {auc_std:.6f}")
+
 
             
