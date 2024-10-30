@@ -294,7 +294,7 @@ if __name__ == "__main__":
             del optimiser
             del LOSS
             gc.collect()
-        auc_mean = np.mean(auc_list), np.std(auc_list)
+        auc_mean,auc_std = np.mean(auc_list), np.std(auc_list)
         # 打印结果
         print(f"AUC Mean: {auc_mean:.4f}, AUC Std: {auc_std:.6f}")
 
