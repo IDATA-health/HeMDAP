@@ -101,7 +101,7 @@ def calculate_metrics(y_true, y_pred):
 
 if __name__ == "__main__":
 
-    D = np.genfromtxt(r"../data/HMDD3.2.txttgitg")
+    D = np.genfromtxt(r"../data/HMDD3.2.txt")
     own_str = 'model'
 
     opt = Config()
